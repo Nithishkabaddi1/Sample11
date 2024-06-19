@@ -9,7 +9,7 @@ public class ContactTest {
 	{
 		System.out.println("createContactTest");
 	}
-	
+@Test
 	public void createContactwithOrgTest()
 	{
 		System.out.println("createContactwithOrgTest");

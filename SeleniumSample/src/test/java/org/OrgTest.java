@@ -9,6 +9,7 @@ public class OrgTest {
 	{
 		System.out.println("createContactTest");
 	}
+	@Test
 	
 	public void createContactwithOrgTest()
 	{
